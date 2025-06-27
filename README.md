@@ -1,3 +1,45 @@
+# 🚖 Arungin App
+
+**Arungin** adalah aplikasi pemesanan ojek online berbasis React Native yang dibangun menggunakan [Expo](https://expo.dev) dengan dukungan multi-platform (Android, iOS, Web).
+
+Proyek ini mengutamakan **penggunaan ulang komponen**, **single codebase**, dan **UI responsif** untuk semua perangkat.
+
+---
+
+## ✨ Fitur MVP (Minimum Viable Product)
+
+✅ Halaman Landing (Welcome)  
+✅ Login pengguna (dummy)  
+✅ Registrasi pengguna (dummy)  
+✅ Navigasi ke Dashboard setelah login  
+✅ UI responsif di Mobile & Web  
+✅ Routing dengan [Expo Router](https://expo.github.io/router/docs)  
+✅ Title halaman dinamis  
+
+---
+
+## 🧪 Akun Dummy untuk Testing
+
+- **Email:** `test@test.com`  
+- **Password:** `123456`
+
+---
+
+## 📸 Tampilan Awal
+
+| Welcome Page | Login Page | Dashboard |
+|--------------|------------|-----------|
+| ![Welcome](./assets/screenshots/index.png) | ![Login](./assets/screenshots/login.png) | ![Dashboard](./assets/screenshots/explore.png) |
+
+---
+
+## 🚀 Cara Menjalankan Proyek
+
+### 1. Clone Repo
+```bash
+git clone https://github.com/namamu/arungin-app.git
+cd arungin-app
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
